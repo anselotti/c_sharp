@@ -72,7 +72,7 @@ namespace makihyppy3
 
                 }
 
-            } catch { MessageBox.Show("Input valid numbers."); }                          
+            } catch { MessageBox.Show("Input valid numbers and characters."); }                          
 
 
         }
