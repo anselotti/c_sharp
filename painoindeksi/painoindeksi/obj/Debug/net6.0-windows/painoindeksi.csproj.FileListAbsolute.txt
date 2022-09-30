@@ -1,0 +1,17 @@
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\bin\Debug\net6.0-windows\painoindeksi.exe
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\bin\Debug\net6.0-windows\painoindeksi.deps.json
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\bin\Debug\net6.0-windows\painoindeksi.runtimeconfig.json
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\bin\Debug\net6.0-windows\painoindeksi.dll
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\bin\Debug\net6.0-windows\painoindeksi.pdb
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.csproj.AssemblyReference.cache
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.Form1.resources
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.csproj.GenerateResource.cache
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.AssemblyInfoInputs.cache
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.AssemblyInfo.cs
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.csproj.CoreCompileInputs.cache
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.dll
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\refint\painoindeksi.dll
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.pdb
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\painoindeksi.genruntimeconfig.cache
+C:\Users\anssi\OneDrive\Työpöytä\koulutehtävät_c_sharp\painoindeksi\painoindeksi\obj\Debug\net6.0-windows\ref\painoindeksi.dll
