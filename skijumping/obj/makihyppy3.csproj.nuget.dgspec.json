@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\makihyppy3\\makihyppy3.csproj": {}
+    "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\skijumping\\makihyppy3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\makihyppy3\\makihyppy3.csproj": {
+    "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\skijumping\\makihyppy3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\makihyppy3\\makihyppy3.csproj",
+        "projectUniqueName": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\skijumping\\makihyppy3.csproj",
         "projectName": "makihyppy3",
-        "projectPath": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\makihyppy3\\makihyppy3.csproj",
+        "projectPath": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\skijumping\\makihyppy3.csproj",
         "packagesPath": "C:\\Users\\anssi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\makihyppy3\\obj\\",
+        "outputPath": "C:\\Users\\anssi\\OneDrive\\Työpöytä\\koulutehtävät_c_sharp\\skijumping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anssi\\AppData\\Roaming\\NuGet\\NuGet.Config",
