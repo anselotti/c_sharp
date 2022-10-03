@@ -84,7 +84,7 @@ namespace makihyppy3
             {
                 for (int j = 0; j < dataGridView1.Rows.Count; j++)
                 {
-                    dataGridView1.Rows[j].Cells[i].Value = DBNull.Value;
+                    dataGridView1.Rows[j].Cells[i].Value = "";
                 }
             }
         }
